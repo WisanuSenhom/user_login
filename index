@@ -40,7 +40,7 @@
       })
       .then((profile) => {
         window.location.replace(
-          `https://forms.gle/itsdmswSFXGGxv3U8`
+          `https://docs.google.com/forms/d/e/1FAIpQLScpQHmrjmaMc6v74JSPtLlKTwwqUON9wdf4mp1BrtfBZE28vA/viewform?usp=pp_url&entry.1782862494=${profile.userId}&entry.1818566072=${profile.displayName}&entry.1960440446=${profile.pictureUrl}&entry.735140826=${profile.statusMessage}`
         );
       });
     liff.init(
