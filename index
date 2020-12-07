@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html lang="en">
 <head>
   <title>กำลังเข้าสู่ Form</title>
   <style>
@@ -54,3 +54,4 @@
     );
   </script>
 </footer>
+</html>
